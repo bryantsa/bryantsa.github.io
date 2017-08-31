@@ -2,23 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Building a Computer
 permalink: projects/vacay
-date: 2015
-labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+date: 2017
+
+summary: I decided to build a computer over the summer of 2017.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The summer of 2017 was quite interesting for me, I started with a lot of free time and then it gradually started dimishing. During the time that I was free, I decided to put my free time to work by investing in a computer. I had never built a computer before and I figured it would be a beneficial summer project. I used <a href = "www.PCPartPicker.com"> PC Part Picker</a> to pick out all the computer parts and check the compatibilites for it.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Once I had all the parts picked out and the money to purchase the parts I ordered all of it at once. Unfortunately living it Hawaii, you have to pay the price of shipping, the shipping was a ridiculous amount and the estimated time of wait was an extensive amount. Although this was dissapointing I was still excited to build my computer.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Eventually parts would come in one by one, but I did not want to start building until I got all the parts in. After all the parts came in I built, the process was somewhat confusing but mainly tedious. The cables were by far the worst part of the process, I wanted to orangize the cables in a manner so that I would know what goes where. Once the computer was built I needed an Operating System and decided to put Windows 10. 
+
+Prior to building a PC, I knew little about the hardware that was involved in a computer. Also throughout the process of building I would do my own research on what hardware did what and how the computer actually operated. This project definitely taught me the inside and outside of PC's.
+
+
+Best website to start building a PC on (Personal opinion): <a href = "www.PCPartPicker.com>PC Part Picker</a>.
