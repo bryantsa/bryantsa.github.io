@@ -19,4 +19,4 @@ Eventually parts would come in one by one, but I did not want to start building 
 Prior to building a PC, I knew little about the hardware that was involved in a computer. Also throughout the process of building I would do my own research on what hardware did what and how the computer actually operated. This project definitely taught me the inside and outside of PC's.
 
 
-Best website to start building a PC on (Personal opinion): <a href = "www.PCPartPicker.com>PC Part Picker</a>.
+Best website to start building a PC on (Personal opinion): <a href = "www.PCPartPicker.com">PC Part Picker</a>.
