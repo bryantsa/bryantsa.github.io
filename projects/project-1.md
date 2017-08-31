@@ -1,29 +1,21 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+title: Building a Website
 permalink: projects/micromouse
-date: 2015
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - HTML
+  - CSS
+  - JavaScript
+summary: My friend asked me and one of my other friends to build a website for him.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+Over the last few years my friend knew that I was in the Computer Science program. He is an entrepreneur who is trying to reach his goals in the marketing department. He figured a website wouldn't hurt his case and asked me and another friend to build his website for him. Unfortunately during this time I was very unfamiliar about websites languages and how to build one but luckily I had just finished the HTML CSS on <a href = "www.codeacademy.com">Code Academy</a>. I was typing up a rough draft of the code when I realized the website was quite bland, even when I added the CSS to it. There was something that was missing but I couldn't figure it out. Forunately for all of us my other friend helped out by implementing some more code but most importantly JavaScript. Once we ran the code with JavaScript the functions that were not previous working started to work and the website was up to the owners standards.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Prior to this project I did not know much about how websites run. I had little knowledge about domains and the directories for the web. Although the project did take a little time it was well worth it. After accomplishing this project it taught me how domains work, how to set up a website from scratch, also how to display certain information on the website. This was a successful project for all of us, the owner of the website was statisfied with the work that we made and for me and my friend we gained knowledge about how domains and websites work as well as the code for it.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Code Academy](http://www.codeacademy.com).
 
 
 
