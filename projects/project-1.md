@@ -15,7 +15,7 @@ Over the last few years my friend knew that I was in the Computer Science progra
 
 Prior to this project I did not know much about how websites run. I had little knowledge about domains and the directories for the web. Although the project did take a little time it was well worth it. After accomplishing this project it taught me how domains work, how to set up a website from scratch, also how to display certain information on the website. This was a successful project for all of us, the owner of the website was statisfied with the work that we made and for me and my friend we gained knowledge about how domains and websites work as well as the code for it.
 
-You can learn more at the [Code Academy](http://www.codeacademy.com).
+You can learn more at the [Code Academy] website(http://www.codeacademy.com).
 
 
 
