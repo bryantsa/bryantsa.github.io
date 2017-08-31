@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
 title: Building a Computer
 permalink: projects/vacay
 date: 2017
