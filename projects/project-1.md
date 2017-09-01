@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Building a Website
+image: bryantsa.github.io/images/w.png
 permalink: projects/micromouse
 date: 2016
 labels:
