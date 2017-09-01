@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: E09: Reflect on Javascript 1
+title: E09 Reflect on Javascript 1
 date: 2017-09-01
 labels:
   - JavaScript 
 ---
-
 
 
 
