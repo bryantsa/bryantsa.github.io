@@ -8,6 +8,9 @@ date: 2017
 
 summary: I decided to build a computer over the summer of 2017.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/m.jpeg">
+</div>
 
 
 The summer of 2017 was quite interesting for me, I started with a lot of free time and then it gradually started diminishing. During the time that I was free, I decided to put my free time to work by investing in a computer. I had never built a computer before and I figured it would be a beneficial summer project. I used <a href = "https://www.PCPartPicker.com"> PC Part Picker</a> to pick out all the computer parts and check the compatibilities for it.
