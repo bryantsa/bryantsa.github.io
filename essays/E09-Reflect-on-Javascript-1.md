@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: software-engineering
-date: 2017-08-31
+title: E09: Reflect on Javascript 1
+date: 2017-09-01
 labels:
   - Engineering
 ---
