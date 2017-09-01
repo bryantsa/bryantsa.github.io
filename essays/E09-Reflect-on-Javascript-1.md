@@ -9,7 +9,7 @@ labels:
 
 
 
-<H1>Step one: JavaScript</H1>
+<H1>Let me tell you about JavaScript</H1>
 
 JavaScript was a foreign language to me, meaning I have never used the language or really knew how it worked until this course. Once I started to use the language I realized the basics of it was really similar to Java the programming language, which made coding a lot easier because I already knew concepts and foundation. There are some differences in the language for example: declaring variables, for loops having different ways to go through arrays, and printing the results onto a browser console, also the syntax was a little different. Although there are difference the basics and concepts are pretty much the same. Athletic Software Engineering also helps when I do the practice WOD’s.
 
