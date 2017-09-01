@@ -9,7 +9,7 @@ labels:
 
 
 
-<H1>Creating a plateform for the Future</H1>
+<H1>Creating a Platform for the Future</H1>
 
 
 Software Engineering will be used forever and it will be used not only in Computer Science but in almost any other category. Software can be very complex and tedious work if the code itself is unorganized and redundant. Engineering the software makes the code more pleasing to the eye because there is now a method behind the code and it is clear and concise on what the code needs to do in order for it to work properly. My interests in software engineering is making the code work for me instead of me working for the code. 
