@@ -10,6 +10,9 @@ labels:
   - JavaScript
 summary: My friend asked me and one of my other friends to build a website for him.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/w.png">
+</div>
 
 
 Over the last few years my friend knew that I was in the Computer Science program. He is an entrepreneur who is trying to reach his goals in the marketing department. He figured a website wouldn't hurt his case and asked me and another friend to build his website for him. Unfortunately during this time, I was very unfamiliar about websites languages and how to build one but luckily I had just finished the HTML CSS on <a href = "https://www.codeacademy.com">Code Academy</a>. 
