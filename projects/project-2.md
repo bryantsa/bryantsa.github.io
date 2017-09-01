@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Building a Computer
+image: bryantsa.github.io/images/m.jpeg
 permalink: projects/vacay
 date: 2017
 
