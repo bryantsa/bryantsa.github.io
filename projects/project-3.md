@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Internship
+image: bryantsa.github.io/images/h.jpeg
 permalink: projects/cotton
 date: 2017
 labels:
