@@ -9,6 +9,10 @@ labels:
   - Hawaiian Telcom
 summary: Summer Internship for 2017
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/h.jpeg">
+</div>
+
 
 The summer of 2017 I was on a quest to find an internship. After a while of searching I finally found one at Hawaiian Telcom Inc. this position had an IT Intern title which was what I wanted. The internship was also paid which is how I got the funds for my computer. Throughout this internship I assisted Hawaiian Telcom with new hardware and troubleshooting. I also learned a lot of knowledge from this opportunity. The internship consisted of a software update to Windows 10, which I honestly did not have much experience with. Some troubleshooting situations I would have to learn on the spot. While at this internship they should us the server room and other crucial rooms for the company to operate in an efficient manner.
 
