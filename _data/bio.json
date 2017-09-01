@@ -49,12 +49,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "HTML",
+        "CSS",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
@@ -64,8 +63,9 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Android",
+        "iOS"
       ]
     }
   ],
@@ -74,7 +74,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-08-18",
       "endDate": "Present",
       "gpa": "",
       "courses": [
