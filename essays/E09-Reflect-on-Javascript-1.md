@@ -8,7 +8,7 @@ labels:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="bryantsa.github.io/images/Sharky.png">
+  <img class="ui image" src="../images/Sharky.png">
 </div>
 
 <H1>Let me tell you about JavaScript</H1>
