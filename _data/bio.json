@@ -96,19 +96,13 @@
       ]
     }
   ],
-  "awards": [
+  "Participation": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
+      "title": "AT&T Hackathon",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "awarder": "AT&T",
+      "summary": "Completed a hackathon through the AT&T hackathon that they offered at Scared Hearts Academy in 2015. This was over the weekend and we successfully created a rough website and app for a job."
+    },
   ],
   "references": [
     {
