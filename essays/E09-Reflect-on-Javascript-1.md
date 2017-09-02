@@ -6,10 +6,7 @@ date: 2017-09-01
 labels:
   - JavaScript 
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Sharky.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/Sharky.png">
 
 <H1>Let me tell you about JavaScript</H1>
 
