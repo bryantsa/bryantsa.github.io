@@ -4,8 +4,6 @@ type: essay
 title: E11 Reflect on smart questions
 date: 2017-09-07
 labels:
-  - Javascript
-  - PHP
   -Java
 ---
 
