@@ -9,7 +9,7 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/smartquestions.jpg">
 
-<H1><u>Only</u> Smart Questions Allowed!</H1>
+<H1><u>ONLY</u> Smart Questions Allowed!</H1>
 
 After reading the article <a href = "http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Questions The Smart Way </a> asking questions was seen differently. I personally feel that nowadays a lot of people are extremely lazy and want the answer or result without putting even the littlest of effort into solving the problem. This causes a problem in society because if people are catered to this behavior those people will not understand how to achieve the solution by themselves. Here is an example of a not so smart question: <a href = "https://stackoverflow.com/questions/9864267/loading-image-resource">Not so smart question</a>. If you look at this question, the title is unclear and it is obvious that the person did not do their own research. Also, there is no greeting or welcoming message towards the end making it seems like the person asking the question is demanding an answer. 
 
