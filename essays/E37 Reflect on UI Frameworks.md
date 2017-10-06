@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E37-Reflect-on-UI-Frameworks
+title: E37 Reflect on UI Frameworks
 date: 2017-10-05
 labels:
   - HTML
