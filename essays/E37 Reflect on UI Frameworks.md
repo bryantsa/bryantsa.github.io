@@ -4,8 +4,12 @@ type: essay
 title: E37 Reflect on UI Frameworks
 date: 2017-10-05
 labels:
-  - JavaScript 
+  - HTML
+  - CSS
+  - Semantic UI
 ---
+
+<img class="ui medium right floated rounded image" src="../images/framework.jpg">
 
 <H1>Frameworks save lives!!</H1>
 
