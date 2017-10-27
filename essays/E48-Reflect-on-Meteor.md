@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E09 Reflect on Javascript 1
+title: E48 Reflect on Meteor
 date: 2017-10-26
 labels:
   - JavaScript 
