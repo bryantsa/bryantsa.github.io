@@ -5,6 +5,7 @@ title: E48 Reflect on Meteor
 date: 2017-10-26
 labels:
   - JavaScript 
+  - Meteor 
 ---
 <img class="ui medium right floated rounded image" src="../images/met.jpg">
 
