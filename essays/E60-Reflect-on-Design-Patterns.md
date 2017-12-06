@@ -8,7 +8,7 @@ labels:
 ---
 <img class="ui medium right floated rounded image" src="../images/design-patterns.png">
 
-<H1>Help One Help Another</H1>
+<H1>Help One, Help Another</H1>
 
 <p>A part of the coding experience is the complications and problems the developer will encounter. Luckily people started to get tired of the common problems and they tried to resolve them in order to get things done quicker and a simpler way. This was called Design Pattern, where the complicated common problems can be reused and are dynamic. Developers use design patterns without even knowing, for example singleton pattern is a type of pattern that can be accessed globally. This operates somewhat like a global variable where it can be accessed throughout the project. 
   </p>
