@@ -55,19 +55,7 @@
         "Javascript",
         "Python",
       ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "Windows",
-        "Android",
-        "iOS"
-      ]
-    },
+    },    
     {
       "name": "Software",
       "level": "",
@@ -84,6 +72,18 @@
                    "Adobe Photoshop",
                    "Adobe illustrator (basic)"
                    ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "Windows",
+        "Android",
+        "iOS"
+      ]
     }
   ],
   "education": [
