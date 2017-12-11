@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "bryantsa",
-        "url": "https://www.linkedin.com/in/bryant-sanchez-65167b139/"
+        "url": "https://www.linkedin.com/in/bryantsanchez/"
       }
     ]
   },
@@ -67,6 +67,11 @@
         "Android",
         "iOS"
       ]
+    }
+  ],
+  "Software": [
+    {
+      "name":"GitHub, Meteor, MongoDB, IntelliJ, MS Word, MS PowerPoint, MS Excel, MS Outlook, MS Publisher, MS Access (basic), Adobe Photoshop, Adobe illustrator (basic)"
     }
   ],
   "education": [
