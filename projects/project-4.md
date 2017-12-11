@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Squadify
-image: bryantsa.github.io/images/w.png
+image: bryantsa.github.io/images/FinalPic1.png
 date: 2017
 labels:
   - HTML
