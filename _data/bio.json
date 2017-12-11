@@ -67,11 +67,23 @@
         "Android",
         "iOS"
       ]
-    }
-  ],
-  "Software": [
+    },
     {
-      "name":"GitHub, Meteor, MongoDB, IntelliJ, MS Word, MS PowerPoint, MS Excel, MS Outlook, MS Publisher, MS Access (basic), Adobe Photoshop, Adobe illustrator (basic)"
+      "name": "Software",
+      "level": "",
+      "keywords": ["GitHub", 
+                   "Meteor", 
+                   "MongoDB",
+                   "IntelliJ",
+                   "MS Word",
+                   "MS PowerPoint",
+                   "MS Excel",
+                   "MS Outlook",
+                   "MS Publisher," 
+                   "MS Access (basic)",
+                   "Adobe Photoshop",
+                   "Adobe illustrator (basic)"
+                   ]
     }
   ],
   "education": [
