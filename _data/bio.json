@@ -57,23 +57,6 @@
       ]
     },    
     {
-      "name": "Software",
-      "level": "",
-      "keywords": ["GitHub", 
-                   "Meteor", 
-                   "MongoDB",
-                   "IntelliJ",
-                   "MS Word",
-                   "MS PowerPoint",
-                   "MS Excel",
-                   "MS Outlook",
-                   "MS Publisher," 
-                   "MS Access (basic)",
-                   "Adobe Photoshop",
-                   "Adobe illustrator (basic)"
-                   ]
-    },
-    {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -83,6 +66,9 @@
         "Windows",
         "Android",
         "iOS"
+        "Meteor", 
+        "MongoDB",
+        "IntelliJ",
       ]
     }
   ],
