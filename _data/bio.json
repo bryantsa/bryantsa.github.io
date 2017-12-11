@@ -115,6 +115,19 @@
               "Troubleshooting on Windows 10",
               "Learning how a company operates"
           ]
+      },
+    {
+          "company": "•	Enterprise Technology Services",
+          "position": "Transformation Internship Program",
+          "website": "http://hacc.hawaii.gov/",
+          "startDate": "2016-06-21",
+          "endDate": "2016-08-24",
+          "summary": "The mission was to create a hackathon that would bring a range of people together from intellectual people to the curious. The result was creating Hawaii's first State Hackathon.",
+          "highlights": [
+              "Created H.A.C.C.",
+              "Worked with the State in order to develop a stronger tech industry in Hawaii",
+              "Introduction to a lot of the tech companies here"
+          ]
       }
   ],
   "Participation": [
