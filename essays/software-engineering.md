@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: software-engineering
+title: Plateform for the future
 date: 2017-08-31
 labels:
   - Engineering
@@ -10,7 +10,7 @@ labels:
 <img class="ui medium right floated rounded image" src="../images/software-code.jpg">
 
 
-<H1>Creating a Platform for the Future</H1>
+<H1>Platform for the Future</H1>
 
 
 <p>Software Engineering is truly a revolutionary concept. It will be used forever and be used in almost every other category. Software can be very complex and tedious work if the code itself is unorganized and redundant. Engineering the software makes the code more pleasing to the eye and it also implements a method behind the code making the code clear and concise on its intended purpose is and how it works. The goal for writing code and using software engineering is making the code work for me instead of me working for the code.</p>
