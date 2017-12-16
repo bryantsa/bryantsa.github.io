@@ -7,7 +7,7 @@ labels:
   - Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="../images/software.jpg">
+<img class="ui medium right floated rounded image" src="../images/software-code.jpg">
 
 
 <H1>Creating a Platform for the Future</H1>
