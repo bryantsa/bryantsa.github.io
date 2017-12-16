@@ -22,5 +22,5 @@ summary: Final Project for 314.
 
 
 <p>
-For the source code, please visit: https://github.com/squadify
+  For the source code, please visit: <a href ="https://github.com/squadify">here</a>
 </p>
