@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E11 Reflect on smart questions
+title: Only Smart Questions Allowed!
 date: 2017-09-07
 labels:
   -Java
