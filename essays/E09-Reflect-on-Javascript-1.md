@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E09 Reflect on Javascript 1
+title: Let me tell you about JavaScript
 date: 2017-09-01
 labels:
   - JavaScript 
